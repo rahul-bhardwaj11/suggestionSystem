@@ -1,0 +1,23 @@
+{
+  "name": "suggestion-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-bhardwaj11/suggestionSystem.git"
+  },
+  "author": "Rahul Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul-bhardwaj11/suggestionSystem/issues"
+  },
+  "homepage": "https://github.com/rahul-bhardwaj11/suggestionSystem#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
